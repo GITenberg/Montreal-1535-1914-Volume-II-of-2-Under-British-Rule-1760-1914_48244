@@ -1,10 +1,16 @@
 _repo: Montreal-1535-1914-Volume-II-of-2-Under-British-Rule-1760-1914_48244
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 48244-h/images/cover.jpg
 creator:
   author:
     agent_name: Atherton, William Henry
     gutenberg_agent_id: '44477'
     url: http://www.gutenberg.org/2009/agents/44477
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48244#Montreal-1535-1914-Volume-II-of-2-Under-British-Rule-1760-1914
 gutenberg_issued: '2015-02-12'
 gutenberg_type: Text
 identifiers:
